@@ -1,0 +1,17 @@
+﻿<h3>Session Warning by Ainsof So'o</h3>
+<p class="Contributor">
+	Ainsof So'o <br />
+	<a href="mailto:sprep_it@sprep.org">sprep_it@sprep.org</a><br />
+	<a href=http://www.sprep.org>http://www.sprep.org</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the Session Warning</h3>
+	<p class="Owner">
+		<b>Version 0.0.1</b><br /><br />
+	</p>
+	<p>Initial Release.</p>
+	<p>This Module prompts the user when their session is about to expire and allows them to continue the session</p>
+	<p>This is handy for data entry applications so they the user does not lose their files</p>
+	
+</div>
